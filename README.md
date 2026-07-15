@@ -1,4 +1,4 @@
-# Proyecto: Sistema de Votaciones Electrónicas
+# Proyecto: Sistema de Votaciones AEIS
 **Estudiantes:** Antonela Brito, Ana Calahorrano, Sebastian Salvatierra 
 
 **Institución:** Escuela Politécnica Nacional 
